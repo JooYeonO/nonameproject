@@ -1,6 +1,7 @@
 # nonameproject
 ## How to MangoDB
 포트 설정
+
 $mongod --port 27017
 
 dbpath 설정
