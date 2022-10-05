@@ -1,17 +1,24 @@
 # nonameproject
 ## How to MangoDB
-포트 설정
+☑️ 포트 설정
 
 $mongod --port 27017
 
+
 dbpath 설정
+
 $mongod --dbpath C:\Users\Document\db('파일경로')
 
+
 database 확인
+
 $show dbs
 
-새로운 db생성하기
+
+db collection하기
+
 $use manager('db명')
+
 $db //db를 manager로 사용함
 $db.createCollection("user")  //"user"라는 db를 생성
 $show collections //user가 나타나면 잘 실행된 것
