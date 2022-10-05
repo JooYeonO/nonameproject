@@ -1,2 +1,2 @@
 # nonameproject
-*
+##How to MangoDB
